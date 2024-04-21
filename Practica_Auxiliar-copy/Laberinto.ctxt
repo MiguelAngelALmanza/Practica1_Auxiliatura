@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Laberinto
+comment1.params=size
+comment1.target=Laberinto(int)
+comment2.params=x\ y
+comment2.target=boolean\ valido(int,\ int)
+comment3.params=
+comment3.target=boolean\ puedoSalir()
+comment4.params=x\ y
+comment4.target=boolean\ puedoSalir(int,\ int)
+numComments=5

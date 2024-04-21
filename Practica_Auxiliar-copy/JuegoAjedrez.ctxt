@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=JuegoAjedrez
+comment1.params=x\ y\ n\ m
+comment1.target=void\ movimientosCaballo(int,\ int,\ int,\ int)
+comment2.params=x\ y\ tabla\ n\ m
+comment2.target=void\ movimientosCaballo(int,\ int,\ boolean[][],\ int,\ int)
+comment3.params=n\ m\ X\ Y
+comment3.target=void\ movimientoTorre(int,\ int,\ int,\ int)
+comment4.params=x\ y\ tabla\ n\ m
+comment4.target=void\ moverTorre(int,\ int,\ boolean[][],\ int,\ int)
+comment5.params=n\ m\ cx\ cy\ tx\ ty
+comment5.target=java.lang.String\ simular(int,\ int,\ int,\ int,\ int,\ int)
+numComments=6
