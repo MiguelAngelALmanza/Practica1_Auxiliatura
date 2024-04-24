@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Saltarin
+comment1.params=cinta\ palabra
+comment1.target=java.lang.String\ formarMensaje(char[],\ java.lang.String)
+comment2.params=cinta\ i\ palabra\ j
+comment2.target=java.lang.String\ formarMensaje(char[],\ int,\ java.lang.String,\ int)
+comment3.params=cinta\ x\ pos\ k
+comment3.target=int\ pasos(char[],\ char,\ int,\ int)
+numComments=4

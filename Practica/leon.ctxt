@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=leon
+comment0.text=\r\n\ \ \ \ \ selvadelejemplodondeseencuentrandosleones\ \ \ \ \r\n
+comment1.params=c
+comment1.target=int\ cantLeones(java.lang.String)
+comment2.params=c\ i\ j\ leon
+comment2.target=int\ cantLeones(java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=3

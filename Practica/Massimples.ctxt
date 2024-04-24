@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Massimples
+comment1.params=limite
+comment1.target=void\ piramide(int)
+comment2.params=inicio\ limite
+comment2.target=void\ piramide(int,\ int)
+comment3.params=aux\ inicio\ limite
+comment3.target=void\ imprimirPiramide(int,\ int,\ int)
+numComments=4

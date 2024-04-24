@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fractalesdeverdad
+comment1.params=n
+comment1.target=int\ estrellada(int)
+comment2.params=n
+comment2.target=java.lang.String\ carita(int)
+comment3.params=n
+comment3.target=java.lang.String\ carita1(int)
+comment4.params=n
+comment4.target=int\ panal(int)
+comment5.params=n
+comment5.target=int\ panal1(int)
+numComments=6

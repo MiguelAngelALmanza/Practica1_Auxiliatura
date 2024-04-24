@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=pascal
+comment1.params=fila\ columna
+comment1.target=int\ pascal(int,\ int)
+comment2.params=rowNumber\ currentRow\ column
+comment2.target=void\ printPascalRow(int,\ int,\ int)
+numComments=3
